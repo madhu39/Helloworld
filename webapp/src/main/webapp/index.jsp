@@ -4,3 +4,4 @@
 <h3> Successfully integrated jenkins+maven+tomcat </h3>
 <h4> Successfully integrated the docker with jenkins </h4>
 <h5> Successfully run the build for ansible+docker+jenkins int. </h5>
+<h6> Ansible and Jenkin integration is successful </h6>
