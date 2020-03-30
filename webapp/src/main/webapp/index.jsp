@@ -6,3 +6,4 @@
 <h5> Successfully run the build for ansible+docker+jenkins int. </h5>
 <h6> Ansible and Jenkin integration is successful </h6>
 <h7> Ansible+Docker+Kubernetes integration is successful </h7>
+<h1> 30th Mar 2020, completed CI & CO integraiton successfully </h1>
