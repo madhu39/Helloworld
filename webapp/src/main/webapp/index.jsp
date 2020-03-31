@@ -7,3 +7,4 @@
 <h6> Ansible and Jenkin integration is successful </h6>
 <h7> Ansible+Docker+Kubernetes integration is successful </h7>
 <h1> 30th Mar 2020, completed CI & CO integraiton successfully </h1>
+<h2> On 31st Mar 2020, the CI & CO is working but the changed made on github not reflecting </h2>
